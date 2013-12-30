@@ -1,25 +1,9 @@
 ---
-#Cjdns
+
+<center><img src="img/logo.png" style="width:40%" /></center>
 
 - At the end we will be doing a workshop for getting on Hyperboria
-- If you want to start early do this:
-
-```
-git clone git://github.com/cjdelisle/cjdns.git
-cd cjdns
-./do
-./cjdroute --genconf >> ~/cjdroute.conf
-ed ~/cjdroute.conf
-
-    /* <-- Remove me
-     "ETHInterface": [
-         ... "bind": "wlan0", <-- This should be wlan0, not eth0
-     */  <-- and me
-```
-<!-- this is needed for the syntax highlighting -->
-
-- Connect your wlan device to the `cjdns` adhoc network
-- `sudo ./cjdroute < ~/cjdroute.conf`
+- Instructions here: https://github.com/cjdelisle/cjdns-30c3
 
 ---
 # Welcome to Hyperboria
@@ -194,3 +178,11 @@ from an important email?
 
 ---
 # Questions?
+
+---
+# Getting on Hyperboria
+
+<center><img src="img/logo.png" style="width:40%" /></center>
+
+- Instructions here: https://github.com/cjdelisle/cjdns-30c3
+
