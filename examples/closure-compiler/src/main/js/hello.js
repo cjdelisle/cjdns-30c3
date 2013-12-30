@@ -10,4 +10,4 @@ hello(y);
 
 var x = {};
 // You can't do this, it will fail the build if you try.
-//hello(x);
+hello(x);
